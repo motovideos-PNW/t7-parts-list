@@ -402,6 +402,36 @@
    "returns": "n/a",
    "note": "Your own guide, private link",
    "estimated": false
+  },
+  "Black Diamond": {
+   "url": "https://www.blackdiamondequipment.com",
+   "shipping": {
+    "freeOver": 75,
+    "flat": 6
+   },
+   "returns": "See site",
+   "note": "Shipping estimated",
+   "estimated": true
+  },
+  "Sportsman's Warehouse": {
+   "url": "https://www.sportsmans.com",
+   "shipping": {
+    "freeOver": 50,
+    "flat": 6
+   },
+   "returns": "See site",
+   "note": "Shipping estimated",
+   "estimated": true
+  },
+  "Columbus Supply": {
+   "url": "https://www.columbussupply.com",
+   "shipping": {
+    "freeOver": 9999,
+    "flat": 8
+   },
+   "returns": "See site",
+   "note": "Shipping estimated",
+   "estimated": true
   }
  },
  "items": [
@@ -4648,6 +4678,68 @@
    "specs": "7 build steps · wiring schematic · marked-up photos",
    "alsoAt": [],
    "priceNote": "Free"
+  },
+  {
+   "id": "hl-bd-stormplus",
+   "category": "Camping — Headlamps",
+   "type": "aftermarket",
+   "promo": null,
+   "fitment": "Universal camping gear",
+   "foundAt": "2026-10-18",
+   "name": "Black Diamond Storm+ Headlamp",
+   "description": "Black Diamond's newest Storm (Aug 2026, replaces the Storm 450/500-R): 750 lm max, serviceable 2200 mAh Li-ion, waterproof USB-C port with pass-through charging, battery indicator, IP67, 114 g, up to 80 hr on lowest setting. REI lists it at 4.5 stars (10 reviews, new model).",
+   "image": "https://www.columbussupply.com/wp-content/uploads/2026/08/BD620748-pewter-scaled.webp",
+   "site": "Columbus Supply",
+   "url": "https://www.columbussupply.com/?p=119561",
+   "price": 99.95,
+   "inStock": true,
+   "stockText": "Listed as 'Ships from Manufacturer' (no stock count shown)",
+   "specs": "750 lm · 2200 mAh Li-ion rechargeable · USB-C (pass-through) · 114 g · IP67",
+   "trending": "Brand-new USB-C replacement for the Storm 500-R",
+   "alsoAt": [
+    {
+     "site": "REI",
+     "price": 99.95,
+     "url": "https://www.rei.com/b/black-diamond/c/headlamps/f/rec-rechargeable",
+     "note": "Listed in REI's Black Diamond rechargeable headlamps (4.5 stars, 10 reviews)"
+    }
+   ]
+  },
+  {
+   "category": "Camping — Headlamps",
+   "type": "aftermarket",
+   "promo": null,
+   "fitment": "Universal camping gear",
+   "foundAt": "2026-10-18",
+   "id": "hl-nu25ul",
+   "name": "Nitecore NU25 UL Headlamp",
+   "description": "Ultralight rechargeable headlamp: 400 lm max, built-in 650 mAh Li-ion, USB-C charging, 1.6 oz (45 g). Top ultralight pick in CleverHiker (4.6/5).",
+   "image": "https://cdn11.bigcommerce.com/s-japp2/images/stencil/1280x1280/products/23809/34934/NU25UL_OI__03648.1731001372.png?c=2",
+   "site": "Enlightened Equipment",
+   "url": "https://enlightenedequipment.com/nitecore-nu25-ul/",
+   "price": 36.95,
+   "inStock": true,
+   "stockText": "In stock (71 units)",
+   "specs": "400 lm · 650 mAh Li-ion rechargeable · USB-C · 1.6 oz (45 g)",
+   "trending": "Lightest top-rated rechargeable headlamp"
+  },
+  {
+   "category": "Camping — Headlamps",
+   "type": "aftermarket",
+   "promo": null,
+   "fitment": "Universal camping gear",
+   "foundAt": "2026-10-18",
+   "id": "hl-nu27",
+   "name": "Nitecore NU27 Headlamp",
+   "description": "600 lm rechargeable headlamp with switchable warm, neutral and cool light, built-in 850 mAh Li-ion, USB-C charging (USB-C cable included), 2.0 oz (56 g). CleverHiker 4.7/5; 4.8 stars from 9 reviews at Garage Grown Gear.",
+   "image": "https://www.garagegrowngear.com/cdn/shop/files/NU27HeadlampbyNitecore.png?v=1745333537",
+   "site": "Garage Grown Gear",
+   "url": "https://www.garagegrowngear.com/products/nu27-600-lumen-rechargeable-headlamp-by-nitecore",
+   "price": 40.46,
+   "inStock": true,
+   "stockText": "In stock (147 units)",
+   "specs": "600 lm · 850 mAh Li-ion rechargeable · USB-C · 2.0 oz (56 g)",
+   "trending": "Brightest top-rated rechargeable headlamp under $45"
   }
  ]
 }
