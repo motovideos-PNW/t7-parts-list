@@ -1,0 +1,9 @@
+{
+  "name": "t7-parts-list",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-public.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
