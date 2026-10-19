@@ -1,0 +1,13 @@
+# Never commit these
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+*token*
+.DS_Store
+Thumbs.db
+# Private dashboard material must never live in this repo
+life-dashboard/
+tmp-images/
+tmp-upload/
