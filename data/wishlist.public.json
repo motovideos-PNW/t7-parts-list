@@ -3285,35 +3285,11 @@
    "specs": "Light: yes · Oat Gray / Army Green ($30)"
   },
   {
-   "id": "pump-zero",
-   "category": "Camping — Sleeping Pad Pumps",
-   "type": "aftermarket",
-   "name": "Flextail Zero Pump",
-   "description": "Lightest/smallest pump: 1.2 oz (62 g with battery/nozzle), ~50 s to inflate a pad, 6 nozzles, deflate mode, no light.",
-   "image": "https://cdn11.bigcommerce.com/s-japp2/products/23460/images/34461/12__81136.1722358386.500.500.jpg?c=2",
-   "site": "Enlightened Equipment",
-   "url": "https://enlightenedequipment.com/flextail-zero-pump/",
-   "price": 49.99,
-   "inStock": true,
-   "stockText": "In stock",
-   "fitment": "Universal camping gear",
-   "promo": null,
-   "specs": "No light · ~25 min runtime",
-   "alsoAt": [
-    {
-     "site": "REI",
-     "price": 49,
-     "url": "https://rei.com/product/247650/flextail-zero-pump",
-     "note": "sold out/pre-order"
-    }
-   ]
-  },
-  {
    "id": "pump-zero2",
    "category": "Camping — Sleeping Pad Pumps",
    "type": "aftermarket",
    "name": "Flextail Zero Pump 2",
-   "description": "Newer Zero Pump generation (no light) from a US gear shop.",
+   "description": "Newer Zero Pump generation, no light. Rechargeable Zero Battery 900 (replaceable) charges via USB-C on the battery; 3.33 Wh, ~30 pads per charge, 1.7 oz (48 g) with battery and nozzle.",
    "image": "https://www.garagegrowngear.com/cdn/shop/files/Zero_Pump_2_by_FLEXTAIL_1.jpg?v=1779131422",
    "site": "Garage Grown Gear",
    "url": "https://garagegrowngear.com/products/zero-pump-by-flextail",
@@ -3323,52 +3299,6 @@
    "fitment": "Universal camping gear",
    "promo": null,
    "specs": "No light · ships in 1-2 days"
-  },
-  {
-   "id": "pump-alpenblow",
-   "category": "Camping — Sleeping Pad Pumps",
-   "type": "aftermarket",
-   "name": "Alpenglow Alpenblow Classic Micro Inflator",
-   "description": "Micro inflator for sleeping pads.",
-   "image": null,
-   "site": "Garage Grown Gear",
-   "url": "https://www.garagegrowngear.com/products/alpenblow-micro-inflator-by-alpenglow-gear",
-   "price": 59.95,
-   "inStock": true,
-   "stockText": "In stock",
-   "fitment": "Universal camping gear",
-   "promo": null,
-   "specs": "Weight/light not verified"
-  },
-  {
-   "id": "pump-neoair-mini",
-   "category": "Camping — Sleeping Pad Pumps",
-   "type": "aftermarket",
-   "name": "Therm-a-Rest NeoAir Mini Pump",
-   "description": "2.3 oz, 2 AAA (not included), no light. Sold out at Therm-a-Rest.",
-   "image": null,
-   "site": "Cascade Designs",
-   "url": "https://cascadedesigns.com/products/neoair-mini-pump",
-   "price": 39.95,
-   "inStock": false,
-   "stockText": "Sold out",
-   "fitment": "Universal camping gear",
-   "promo": null
-  },
-  {
-   "id": "pump-neoair-micro",
-   "category": "Camping — Sleeping Pad Pumps",
-   "type": "aftermarket",
-   "name": "Therm-a-Rest NeoAir Micro Pump",
-   "description": "2.3 oz, 2 AAA (not included), no light. Sold out at Therm-a-Rest.",
-   "image": null,
-   "site": "Cascade Designs",
-   "url": "https://cascadedesigns.com/products/neoair-r-micro-pump",
-   "price": 32.21,
-   "inStock": false,
-   "stockText": "Sold out",
-   "fitment": "Universal camping gear",
-   "promo": "Was $42.95"
   },
   {
    "id": "oilf-tusk",
