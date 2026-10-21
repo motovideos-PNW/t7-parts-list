@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T13:00:00-07:00",
+ "updatedAt": "2026-10-21T13:00:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -1783,11 +1783,11 @@
    "category": "Camping — Sleep Systems",
    "type": "aftermarket",
    "name": "Best Value MotoCamping Sleep System 35°F",
-   "description": "Sleep system (on sale).",
+   "description": "Sleep system.",
    "image": null,
    "site": "MotoCampNerd",
    "url": "https://motocampnerd.com/products/best-value-motocamping-sleep-system",
-   "price": 327.41,
+   "price": 334.91,
    "priceFrom": true,
    "inStock": true,
    "stockText": "In Stock",
@@ -1815,11 +1815,11 @@
    "category": "Camping — Stoves & Chairs",
    "type": "aftermarket",
    "name": "Helinox Chair One",
-   "description": "Packable chair (on sale).",
+   "description": "Packable chair.",
    "image": null,
    "site": "MotoCampNerd",
    "url": "https://motocampnerd.com/products/helinox-chair-one",
-   "price": 76.97,
+   "price": 109.95,
    "priceFrom": false,
    "inStock": true,
    "stockText": "In Stock",
@@ -4424,11 +4424,18 @@
    "specs": "1L · compact",
    "type": "aftermarket",
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "Listed — confirm",
+   "inStock": false,
+   "stockText": "Sold out at Cascade Designs (confirmed Oct 21)",
    "promo": "",
    "fitment": "Universal camping gear — no bike fitment needed",
-   "alsoAt": [],
+   "alsoAt": [
+    {
+     "site": "Campmor",
+     "price": 54.95,
+     "url": "https://www.campmor.com/products/platypus-1l-quickdraw-filter-system",
+     "note": "stock not confirmed"
+    }
+   ],
    "foundAt": "2026-10-18",
    "trending": false
   },
@@ -4547,9 +4554,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4566,9 +4573,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4638,9 +4645,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4656,9 +4663,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
