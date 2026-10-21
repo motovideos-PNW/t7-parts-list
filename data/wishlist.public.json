@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T13:00:00-07:00",
+ "updatedAt": "2026-10-20T13:00:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -2784,13 +2784,13 @@
    "category": "Wheels/Tires — Rims — Custom Aftermarket",
    "type": "aftermarket",
    "name": "Woody's Rear Wheel 18x4.25",
-   "description": "Wide rear for OEM-size or fatter tires. Silver $1,264, Black/Gold $1,305. Tubeless seal +$144.",
+   "description": "Wide rear for OEM-size or fatter tires. Silver base now sold out; Black/Gold $1,305. Tubeless seal +$144.",
    "image": "https://cdn.shopify.com/s/files/1/2352/1437/products/rear_68ac1675-9801-4550-8a82-052806ffd046.jpg?v=1674231900",
    "site": "Woody's Wheel Works",
    "url": "https://www.woodyswheelworks.com/products/yamaha-tenere-700-rear-18-425",
-   "price": 1263.92,
+   "price": 1304.92,
    "inStock": true,
-   "stockText": "Built to order",
+   "stockText": "Built to order — Silver variant sold out, Black/Gold available",
    "fitment": "Listed by builder for Yamaha Tenere 700",
    "promo": null,
    "priceFrom": true,
@@ -4200,8 +4200,8 @@
    "site": "CycleGear",
    "url": "https://www.cyclegear.com/accessories/givi-easy01-6-liter-tanklock-tank-bag",
    "price": 103.55,
-   "inStock": true,
-   "stockText": "Listed at CycleGear (stock not verified)",
+   "inStock": false,
+   "stockText": "Out of stock at CycleGear (checked 2026-10-19)",
    "fitment": "Tank-lock bags need a bike-specific tank ring. T7 rings are listed for 2019-2024; 2025 ring fit NOT confirmed (the 2025 tank/cap changed in places - Camel ADV notes its tank cap seal does not fit 2025). Verify with the maker before buying. | Owner's bike has the 5-bolt pentagon tank-cap pattern - confirm the ring is made for that pattern before ordering.",
    "promo": "List $109.00"
   },
@@ -4215,8 +4215,8 @@
    "site": "CycleGear",
    "url": "https://www.cyclegear.com/accessories/givi-easy05-12-liter-tanklock-tank-bag",
    "price": 177.65,
-   "inStock": true,
-   "stockText": "Listed at CycleGear (stock not verified)",
+   "inStock": false,
+   "stockText": "Out of stock at CycleGear (checked 2026-10-19)",
    "fitment": "Tank-lock bags need a bike-specific tank ring. T7 rings are listed for 2019-2024; 2025 ring fit NOT confirmed (the 2025 tank/cap changed in places - Camel ADV notes its tank cap seal does not fit 2025). Verify with the maker before buying. | Owner's bike has the 5-bolt pentagon tank-cap pattern - confirm the ring is made for that pattern before ordering.",
    "promo": "List $187.00"
   },
@@ -4547,9 +4547,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4566,9 +4566,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4638,9 +4638,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4656,9 +4656,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
@@ -4740,6 +4740,42 @@
    "stockText": "In stock (147 units)",
    "specs": "600 lm · 850 mAh Li-ion rechargeable · USB-C · 2.0 oz (56 g)",
    "trending": "Brightest top-rated rechargeable headlamp under $45"
+  },
+  {
+   "id": "ca-pegrelocate",
+   "category": "Comfort & Stands",
+   "type": "aftermarket",
+   "name": "Camel ADV T7 Footpeg Relocation Brackets",
+   "description": "CNC 6061-T6 brackets move footpegs 1\" or 2\" rearward for a roomier cockpit and easier standing balance (taller riders).",
+   "image": "https://cdn.shopify.com/s/files/1/0641/2156/9467/files/IMG_2856.jpg?v=1785878267",
+   "site": "Camel ADV",
+   "url": "https://us.camel-adv.com/products/yamaha-t7-peg-relocate",
+   "price": 99,
+   "priceFrom": false,
+   "inStock": true,
+   "stockText": "In stock",
+   "fitment": "Camel ADV: fits T7 incl. 2025 (remove side stand safety switch guard on 2025+; not compatible with center stands)",
+   "promo": null,
+   "foundAt": "2026-10-20",
+   "trending": "New Camel ADV release (Aug 2026) for taller T7 riders"
+  },
+  {
+   "id": "ca-sigadapt",
+   "category": "Lighting & Electrical",
+   "type": "aftermarket",
+   "name": "Camel ADV T7 Teardrop-to-10mm Signal Adaptors",
+   "description": "Set of 2 pairs lets you swap the big OEM turn signals for small 10mm LED signals (front or rear).",
+   "image": "https://cdn.shopify.com/s/files/1/0641/2156/9467/files/IMG_0982.jpg?v=1739853027",
+   "site": "Camel ADV",
+   "url": "https://us.camel-adv.com/products/yamaha-700-tenere-t7-teardrop-to-10mm-signal-adaptors",
+   "price": 8,
+   "priceFrom": false,
+   "inStock": true,
+   "stockText": "In stock",
+   "fitment": "Camel ADV: compatible with all years and variants of the T7",
+   "promo": null,
+   "foundAt": "2026-10-20",
+   "trending": "Cheap upgrade pairing with LED signals / Tail Tidy"
   }
  ]
 }
