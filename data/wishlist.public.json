@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T13:00:00-07:00",
+ "updatedAt": "2026-10-22T09:30:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -1404,8 +1404,8 @@
    "url": "https://www.motosport.com/puig-touring-windscreen-with-visor",
    "price": 252.74,
    "priceFrom": true,
-   "inStock": true,
-   "stockText": "Exact Fit for 2025 T7 — confirm color/size on page",
+   "inStock": false,
+   "stockText": "Out of stock at MotoSport (checked Oct 22) — was Exact Fit for 2025 T7",
    "promo": "Free shipping over $79; Halloween Slasher Deals (up to 75% off select items); Fast Cash $15 on orders over $150",
    "fitment": "MotoSport: Exact Fit 2025 Tenere 700"
   },
@@ -2096,8 +2096,8 @@
    "url": "https://www.rei.com/product/193057/alps-mountaineering-infinity-down-quilt",
    "price": 149.73,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "Listed — confirm size/color",
+   "inStock": false,
+   "stockText": "Out of stock at REI (checked Oct 22)",
    "promo": "REI Outlet: 25% off $199.99",
    "fitment": "Universal camping gear — no bike fitment needed",
    "specs": "35°F · 1 lb 8 oz · 650-fill · 4.8★ (8)"
@@ -4418,17 +4418,23 @@
    "name": "Platypus QuickDraw 1L Filter System",
    "description": "Compact squeeze/gravity option: 1L reservoir + QuickDraw filter, packs small for a bike.",
    "image": "https://cdn.shopify.com/s/files/1/0574/0642/3174/files/13903-platypus-quickdraw-1L_system-connected.jpg?v=1724820266",
-   "site": "Cascade Designs",
-   "url": "https://www.cascadedesigns.com/products/quickdraw-1l-filter-system",
+   "site": "Gearfool",
+   "url": "https://www.gearfool.com/products/platypus-quickdraw-1l",
    "price": 54.95,
    "specs": "1L · compact",
    "type": "aftermarket",
    "priceFrom": false,
-   "inStock": false,
-   "stockText": "Sold out at Cascade Designs (confirmed Oct 21)",
+   "inStock": true,
+   "stockText": "In stock at Gearfool (checked Oct 22); sold out at Cascade Designs",
    "promo": "",
    "fitment": "Universal camping gear — no bike fitment needed",
    "alsoAt": [
+    {
+     "site": "Cascade Designs",
+     "price": 54.95,
+     "url": "https://www.cascadedesigns.com/products/quickdraw-1l-filter-system",
+     "note": "sold out"
+    },
     {
      "site": "Campmor",
      "price": 54.95,
@@ -4554,9 +4560,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4573,9 +4579,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4645,9 +4651,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4663,9 +4669,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
