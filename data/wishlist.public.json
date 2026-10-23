@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T13:00:00-07:00",
+ "updatedAt": "2026-10-23T14:30:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -4218,9 +4218,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4237,9 +4237,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4309,9 +4309,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4327,9 +4327,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
@@ -4777,57 +4777,93 @@
    "category": "Helmets",
    "type": "aftermarket",
    "name": "Airoh Commander 2 Carbon Helmet (full carbon ADV)",
-   "description": "Lightweight full-face ADV helmet with a 6K carbon-fiber shell, adjustable riding modes, ultra-wide visor, integrated sun visor and Pinlock 120. Newest Airoh carbon ADV model found.",
+   "description": "Lightweight full-face ADV helmet with a 6K carbon-fiber shell, adjustable riding modes, ultra-wide visor, integrated sun visor and Pinlock 120. Newest Airoh carbon ADV model found. Owner wears size Medium.",
    "image": "https://www.revzilla.com/product_images/2560/1094/airoh_commander2_carbon_helmet_black.jpg",
    "site": "RevZilla",
    "url": "https://www.revzilla.com/motorcycle/airoh-commander-2-carbon-helmet",
    "price": 679,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "Black: XS-3XL all selectable; MD-XL ship in 24 hrs at CycleGear (checked Oct 23). NO white carbon is sold in the US.",
+   "stockText": "Black, size MD in stock (RevZilla; CycleGear and J&P ship MD within 24 hrs) — checked Oct 23. No white carbon sold in the US.",
    "promo": "",
    "fitment": "Universal riding gear — no bike fitment needed",
    "specs": "4.6★ (9 reviews, new model) · DOT + ECE 22.06 · carbon is lighter than the 3.53 lb fiberglass version · white graphics exist only on the non-carbon shell (~$529)",
    "foundAt": "2026-10-23",
-   "trending": false
+   "trending": false,
+   "alsoAt": [
+    {
+     "site": "CycleGear",
+     "price": 679,
+     "url": "https://www.cyclegear.com/gear/airoh-commander-2-carbon-helmet",
+     "note": "MD in stock, ships within 24 hrs"
+    },
+    {
+     "site": "J&P Cycles",
+     "price": 679,
+     "url": "https://www.jpcycles.com/product/airoh-commander-2-carbon-helmet",
+     "note": "MD in stock, ships within 24 hrs"
+    }
+   ]
   },
   {
    "id": "hm-gtair3",
    "category": "Helmets",
    "type": "aftermarket",
-   "name": "Shoei GT-Air 3 Helmet (latest GT-Air)",
-   "description": "Premium sport-touring full-face with built-in drop-down sun visor and Pinlock-ready clear shield; no peak. Newest GT-Air sold in the US.",
-   "image": "https://www.revzilla.com/product_images/2322/8077/shoei_gt_air3_helmet.jpg",
+   "name": "Shoei GT-Air 3 Helmet in Matte Black (latest GT-Air)",
+   "description": "Premium sport-touring full-face with built-in drop-down sun visor and Pinlock-ready clear shield; no peak. Newest GT-Air sold in the US. Owner wears size Medium.",
+   "image": "https://www.revzilla.com/product_images/2322/8332/shoei_gt_air3_helmet.jpg",
    "site": "RevZilla",
    "url": "https://www.revzilla.com/motorcycle/shoei-gt-air-3-helmet",
    "price": 779.99,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "White: only XS and SM in stock; MD-2XL out of stock (checked Oct 23). Other solids in stock.",
+   "stockText": "Matte Black, size MD in stock at RevZilla and CycleGear (1 left, ships in 24 hrs) — checked Oct 23. White MD is sold out everywhere checked (MotoSport lists it with a 6-8 business day ship time), so the black is listed instead; image shows Pearl Black.",
    "promo": "",
    "fitment": "Universal riding gear — no bike fitment needed",
-   "specs": "4.4★ (81) · AIM fiberglass shell · 3.78 lb · DOT (ECE not shown on RevZilla) · White/Pearl Black/Matte Black/Matte Deep Grey/Brilliant Yellow/Matte Blue · Bluetooth (SRL) compatible",
+   "specs": "4.4★ (81) · AIM fiberglass shell · 3.78 lb · DOT (ECE not shown on RevZilla) · Matte Black (chosen)/White/Pearl Black/Matte Deep Grey/Brilliant Yellow/Matte Blue · Bluetooth (SRL) compatible",
    "foundAt": "2026-10-23",
-   "trending": false
+   "trending": false,
+   "alsoAt": [
+    {
+     "site": "CycleGear",
+     "price": 779.99,
+     "url": "https://www.cyclegear.com/gear/shoei-gt-air-3-helmet",
+     "note": "Matte Black MD (1 left) in stock"
+    },
+    {
+     "site": "MotoSport",
+     "price": 779.99,
+     "url": "https://www.motosport.com/shoei-gtair-iii-helmet?variant=SOIA09C-X006-Y003",
+     "note": "White MD listed but ships in 6-8 business days (confirm)"
+    }
+   ]
   },
   {
    "id": "hm-hornetx2",
    "category": "Helmets",
    "type": "aftermarket",
    "name": "Shoei Hornet X2 Helmet (top-rated ADV helmet)",
-   "description": "Dual-sport/ADV helmet with adjustable peak and street-ready shield system; best-rated ADV helmet found with a meaningful review count.",
+   "description": "Dual-sport/ADV helmet with adjustable peak and street-ready shield system; best-rated ADV helmet found with a meaningful review count. Owner wears size Medium.",
    "image": "https://www.revzilla.com/product_images/0115/2554/shoei_hornet_x2_adventure_helmet.jpg",
    "site": "RevZilla",
    "url": "https://www.revzilla.com/motorcycle/shoei-hornet-x2-helmet",
-   "price": 699.99,
-   "priceFrom": true,
+   "price": 719.99,
+   "priceFrom": false,
    "inStock": true,
-   "stockText": "Black: XS, SM, 2XL in stock; MD-XL out of stock (checked Oct 23)",
+   "stockText": "Deep Matte Grey, size MD in stock at RevZilla (also CycleGear: Deep Matte Grey and Matte Black MD). Black, Silver MD out (checked Oct 23)",
    "promo": "",
    "fitment": "Universal riding gear — no bike fitment needed",
-   "specs": "4.7★ (182) · Snell M2025 + DOT · 3.92 lb · Black/Matte Black/Deep Matte Grey/Silver ($699.99-$719.99) · runners-up: LS2 Advant X Carbon 4.5★ (127) $599.98, Arai XD-5 4.3★ (85)",
+   "specs": "4.7★ (182) · Snell M2025 + DOT · 3.92 lb · Deep Matte Grey is the color in MD ($719.99) · runners-up: LS2 Advant X Carbon 4.5★ (127) $599.98, Arai XD-5 4.3★ (85)",
    "foundAt": "2026-10-23",
-   "trending": false
+   "trending": false,
+   "alsoAt": [
+    {
+     "site": "CycleGear",
+     "price": 699.99,
+     "url": "https://www.cyclegear.com/gear/shoei-hornet-x2-helmet",
+     "note": "from $699.99; Deep Matte Grey MD in stock, Matte Black MD (1 left); 4.5★ (43)"
+    }
+   ]
   }
  ]
 }
