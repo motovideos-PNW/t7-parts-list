@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T14:30:00-07:00",
+ "updatedAt": "2026-10-23T16:00:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -4218,9 +4218,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4237,9 +4237,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4309,9 +4309,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4327,9 +4327,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
@@ -4488,25 +4488,6 @@
    "trending": false
   },
   {
-   "id": "ap-j-msr-s",
-   "category": "Apparel — Jackets",
-   "type": "aftermarket",
-   "name": "MSR Cryomesh ADV Jacket (summer/vented)",
-   "description": "Body-mapped stretch mesh ADV jacket with packable rain liner and D3O armor. Only vented MSR ADV jacket.",
-   "image": "https://images.rockymountainatvmc.com/images/prod/275/m/msr_26_jac_cry_adv-gry.jpg",
-   "site": "RMATVMC",
-   "url": "https://www.rockymountainatvmc.com/riding-gear/msr-cryomesh-adv-jacket-p",
-   "price": 299.99,
-   "priceFrom": false,
-   "inStock": true,
-   "stockText": "Sizes listed; per-size stock not confirmed on RMATVMC (checked Oct 23)",
-   "promo": "",
-   "fitment": "Universal riding gear — no bike fitment needed",
-   "specs": "4.81★ (36) · Black/Grey/Mil Green · D3O armor · more pockets than wanted, has a hydration pocket",
-   "foundAt": "2026-10-23",
-   "trending": false
-  },
-  {
    "id": "ap-j-klim-w",
    "category": "Apparel — Jackets",
    "type": "aftermarket",
@@ -4560,25 +4541,6 @@
    "promo": "",
    "fitment": "Universal riding gear — no bike fitment needed",
    "specs": "4.49★ (50) · Black/Grey · waist 30-44 incl. Tall · 2 waist + 1 thigh pocket",
-   "foundAt": "2026-10-23",
-   "trending": false
-  },
-  {
-   "id": "ap-p-msr-s",
-   "category": "Apparel — Pants",
-   "type": "aftermarket",
-   "name": "MSR Cryomesh ADV Pant (summer/vented)",
-   "description": "Mesh ADV pant matching the Cryomesh jacket (jacket-to-pant zip).",
-   "image": "https://images.rockymountainatvmc.com/images/prod/275/m/msr_26_pan_cry_mes_adv-gry.jpg",
-   "site": "RMATVMC",
-   "url": "https://www.rockymountainatvmc.com/riding-gear/msr-cryomesh-adv-pant-p",
-   "price": 239.99,
-   "priceFrom": false,
-   "inStock": true,
-   "stockText": "Sizes listed; per-size stock not confirmed on RMATVMC (checked Oct 23)",
-   "promo": "",
-   "fitment": "Universal riding gear — no bike fitment needed",
-   "specs": "4.63★ (16) · Black/Grey/Mil Green · waist 30-42 incl. Tall · liner/armor details not confirmed on page",
    "foundAt": "2026-10-23",
    "trending": false
   },
@@ -4864,6 +4826,63 @@
      "note": "from $699.99; Deep Matte Grey MD in stock, Matte Black MD (1 left); 4.5★ (43)"
     }
    ]
+  },
+  {
+   "id": "ap-j-msr-leg",
+   "category": "Apparel — Jackets",
+   "type": "aftermarket",
+   "name": "MSR Legend Offroad Jacket (summer/vented)",
+   "description": "Non-waterproof, body-mapped stretch jacket with 500D/840D ripstop reinforcements, zip-off sleeves, chest-pocket intake vents and rear exhaust vents. Off-road styling; wear over your armor layer.",
+   "image": "https://images.rockymountainatvmc.com/images/prod/60/m/msr_26_jac_leg_off_roa-blk.jpg",
+   "site": "RMATVMC",
+   "url": "https://www.rockymountainatvmc.com/riding-gear/msr-legend-offroad-jacket-p",
+   "price": 139.99,
+   "priceFrom": false,
+   "inStock": true,
+   "stockText": "Sizes and colors listed; per-size stock not confirmed on RMATVMC (checked Oct 23)",
+   "promo": "",
+   "fitment": "Universal riding gear — no bike fitment needed",
+   "specs": "4.73★ (15) · Arctic Grey/Black/Grey/Military Green · no armor included · pockets: 2 chest (intake vents), 2 hand, large rear stash · fleece-lined collar · reflective accents · not waterproof",
+   "foundAt": "2026-10-23",
+   "trending": false
+  },
+  {
+   "id": "ap-p-msr-leg-itb",
+   "category": "Apparel — Pants",
+   "type": "aftermarket",
+   "name": "MSR Legend Offroad In-The-Boot Pants (summer/vented)",
+   "description": "MX-inspired stretch pants worn tucked into the boot, with cargo storage and intake/exhaust vents. Non-waterproof.",
+   "image": "https://images.rockymountainatvmc.com/images/prod/275/m/msr_26_itb_pan_leg_off_roa-blk.jpg",
+   "site": "RMATVMC",
+   "url": "https://www.rockymountainatvmc.com/riding-gear/msr-legend-offroad-in-the-boot-pants-p",
+   "price": 109.99,
+   "priceFrom": false,
+   "inStock": true,
+   "stockText": "Sizes and colors listed; per-size stock not confirmed on RMATVMC (checked Oct 23)",
+   "promo": "",
+   "fitment": "Universal riding gear — no bike fitment needed",
+   "specs": "4.88★ (36) · Black/Brown/Grey/Mil Green/Steel Blue/Tan · in-the-boot cut",
+   "foundAt": "2026-10-23",
+   "trending": false
+  },
+  {
+   "id": "ap-p-msr-leg-otb",
+   "category": "Apparel — Pants",
+   "type": "aftermarket",
+   "name": "MSR Legend Offroad Over-The-Boot Pants (summer/vented)",
+   "description": "Rugged zippered over-the-boot pants with full inner leather panels for heat and abrasion protection, stretch zones, cargo storage and vents. Non-waterproof.",
+   "image": "https://images.rockymountainatvmc.com/images/prod/275/m/msr_26_otb_pan_leg_off_roa-blk.jpg",
+   "site": "RMATVMC",
+   "url": "https://www.rockymountainatvmc.com/riding-gear/msr-legend-offroad-over-the-boot-pants-p",
+   "price": 119.99,
+   "priceFrom": false,
+   "inStock": true,
+   "stockText": "Sizes and colors listed; per-size stock not confirmed on RMATVMC (checked Oct 23)",
+   "promo": "",
+   "fitment": "Universal riding gear — no bike fitment needed",
+   "specs": "4.79★ (59) · Black/Brown/Grey/Mil Green/Steel Blue/Tan · over-the-boot cut, zippered",
+   "foundAt": "2026-10-23",
+   "trending": false
   }
  ]
 }
