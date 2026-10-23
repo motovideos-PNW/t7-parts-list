@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T16:00:00-07:00",
+ "updatedAt": "2026-10-23T09:30:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -1246,10 +1246,10 @@
    "image": "https://images.rockymountainatvmc.com/images/prod/275/p/pea_26_mot_mir_pho_mou-blk-2186700001.jpg",
    "site": "RMATVMC",
    "url": "https://www.rockymountainatvmc.com/parts/peak-design-motorcycle-mirror-phone-mount-p?v=21674",
-   "price": 99.95,
-   "priceFrom": true,
+   "price": 69.88,
+   "priceFrom": false,
    "inStock": true,
-   "stockText": "In stock — choose option/size at checkout",
+   "stockText": "In stock (2 left at RMATVMC)",
    "promo": "Quick Cash rewards; low-price guarantee",
    "fitment": "RMATVMC: Fits 2025 YAMAHA TENERE 700"
   },
@@ -2031,9 +2031,9 @@
    "url": "https://www.rei.com/product/250165/sea-to-summit-ether-light-xt-insulated-sleeping-pad",
    "price": 112.73,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "Listed — confirm size/color",
-   "promo": "REI Outlet: 52% off $239",
+   "inStock": false,
+   "stockText": "Unavailable at REI (newer version listed) — checked 2026-10-23",
+   "promo": "",
    "fitment": "Universal camping gear — no bike fitment needed",
    "specs": "4 in · R3.2 · packed 4.7 x 11 in (Large) · reviews 106"
   },
@@ -2082,8 +2082,8 @@
    "url": "https://www.rei.com/product/228436/nemo-tensor-all-season-ultralight-insulated-sleeping-pad",
    "price": 199.95,
    "priceFrom": true,
-   "inStock": true,
-   "stockText": "Listed — confirm size/color",
+   "inStock": false,
+   "stockText": "REI page gone (404); Kaviso lists Regular sold out — checked 2026-10-23",
    "promo": "",
    "fitment": "Universal camping gear — no bike fitment needed",
    "specs": "3.5 in · R5.4 · packed 4 x 10 in · 4.5★ (370)"
@@ -4218,9 +4218,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4237,9 +4237,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4309,9 +4309,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4327,9 +4327,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
