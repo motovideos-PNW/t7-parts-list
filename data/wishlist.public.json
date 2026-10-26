@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T09:30:00-07:00",
+ "updatedAt": "2026-10-26T09:45:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -2218,8 +2218,8 @@
    "url": "https://motocampnerd.com/collections/sale/products/zoleo-satellite-communicator",
    "price": 112.46,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "Listed — confirm size/color",
+   "inStock": false,
+   "stockText": "Sold out at MotoCampNerd (checked Oct 26); ZOLEO Global at $199.99 in stock",
    "promo": "On sale (was $149.95)",
    "fitment": "Universal / gear — no bike fitment needed",
    "specs": "Was $149.95"
@@ -3149,11 +3149,11 @@
    "image": "https://www.naturehike.com/cdn/shop/files/Mini_Air_Pump_OatGray_Main.jpg?v=1750152805",
    "site": "Naturehike",
    "url": "https://www.naturehike.com/products/naturehike-ultralight-mini-air-pump-with-camping-light",
-   "price": 32.99,
+   "price": 30,
    "inStock": true,
    "stockText": "In stock",
    "fitment": "Universal camping gear",
-   "promo": null,
+   "promo": "Army Green on sale $30.00 (Oat Gray $32.99); site code SPOOKY12 = 12% off $139+ carts.",
    "specs": "Light: yes · Oat Gray / Army Green ($30)"
   },
   {
@@ -4083,7 +4083,7 @@
    "type": "aftermarket",
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In stock at Gearfool (checked Oct 22); sold out at Cascade Designs",
+   "stockText": "In stock at Gearfool (checked Oct 26); sold out at Cascade Designs",
    "promo": "",
    "fitment": "Universal camping gear — no bike fitment needed",
    "alsoAt": [
@@ -4091,7 +4091,7 @@
      "site": "Cascade Designs",
      "price": 54.95,
      "url": "https://www.cascadedesigns.com/products/quickdraw-1l-filter-system",
-     "note": "sold out"
+     "note": "sold out (re-checked Oct 26)"
     },
     {
      "site": "Campmor",
@@ -4111,14 +4111,14 @@
    "image": "https://www.cyclegear.com/_a/product_images/2089/8472/pirelli_scorpion_rally_str_tires.jpg",
    "site": "CycleGear",
    "url": "https://www.cyclegear.com/tires/pirelli-scorpion-rally-str-tires?vehicle_id=38595&sku_id=10089848",
-   "price": 171.87,
-   "stockText": "Listed — confirm size",
+   "price": 176.61,
+   "stockText": "In Stock — ships within 24 hrs",
    "specs": "90/90-21 54V TL",
    "alsoAt": [],
    "type": "oem",
    "priceFrom": false,
    "inStock": true,
-   "promo": "",
+   "promo": "26% off MSRP; free shipping over $49.99.",
    "fitment": "Factory-spec tire for the 2025 Ténéré 700 (owner-confirmed OEM: Pirelli Scorpion Rally STR)",
    "foundAt": "2026-10-18",
    "trending": false
@@ -4218,9 +4218,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4237,9 +4237,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4309,9 +4309,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4327,9 +4327,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
