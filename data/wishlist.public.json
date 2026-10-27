@@ -890,12 +890,12 @@
    "category": "Maintenance Kits",
    "type": "aftermarket",
    "name": "Tusk 4-Stroke Oil Change Kit",
-   "description": "Tusk 4-stroke oil change kit for the 2025 T7 (oil + filter; $45.84-$58.54 depending on oil/filter option). Pick the option on the product page.",
-   "image": "https://images.rockymountainatvmc.com/images/prod/275/t/tus_22_4st_oil_cha_kit.jpg",
+   "description": "Tusk 4-stroke oil change kit for the 2025 T7 (oil + filter). Pictured: the Yamalube Hi-Perf Full Syn. 4T 10W-40 option, $58.34. Other oil options start at $45.84; pick the option on the product page.",
+   "image": "https://images.rockymountainatvmc.com/images/prod/275/t/tus_26_4_str_oil_cha_kit-yam-1529861128.jpg",
    "site": "RMATVMC",
    "url": "https://www.rockymountainatvmc.com/parts/tusk-4-stroke-oil-change-kit-p?v=21674",
-   "price": 45.84,
-   "priceFrom": true,
+   "price": 58.34,
+   "priceFrom": false,
    "inStock": true,
    "stockText": "In stock — choose option/size at checkout",
    "promo": "Quick Cash rewards; low-price guarantee",
@@ -4218,9 +4218,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4237,9 +4237,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4309,9 +4309,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4327,9 +4327,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
