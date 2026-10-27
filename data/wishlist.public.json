@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T09:45:00-07:00",
+ "updatedAt": "2026-10-27T09:30:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -2219,7 +2219,7 @@
    "price": 112.46,
    "priceFrom": false,
    "inStock": false,
-   "stockText": "Sold out at MotoCampNerd (checked Oct 26); ZOLEO Global at $199.99 in stock",
+   "stockText": "Sold out at MotoCampNerd (rechecked Oct 27); ZOLEO Global at $199.99 in stock",
    "promo": "On sale (was $149.95)",
    "fitment": "Universal / gear — no bike fitment needed",
    "specs": "Was $149.95"
@@ -2233,13 +2233,13 @@
    "image": null,
    "site": "MotoCampNerd",
    "url": "https://motocampnerd.com/collections/sale/products/garmin-tread%C2%AE-2",
-   "price": 599.99,
+   "price": 699.99,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "Listed — confirm size/color",
-   "promo": "On sale (was $699.99)",
+   "stockText": "Listed — confirm size/color (checked Oct 27)",
+   "promo": null,
    "fitment": "Universal / gear — no bike fitment needed",
-   "specs": "Was $699.99"
+   "specs": "Sale ended; list $699.99"
   },
   {
    "id": "s-beeline",
@@ -3242,15 +3242,23 @@
    "type": "aftermarket",
    "name": "EBC Brake Fluid DOT 4",
    "description": "Budget DOT 4 fluid.",
-   "image": "https://images.rockymountainatvmc.com/images/prod/160/e/ebc_26_bra_flu_dot_4-1089220001.jpg",
-   "site": "RMATVMC",
-   "url": "https://www.rockymountainatvmc.com/parts/ebc-brake-fluid-dot-4-p?v=21674",
-   "price": 6.49,
+   "image": null,
+   "site": "CycleGear",
+   "url": "https://www.cyclegear.com/accessories/ebc-brake-fluid?sku_id=167220",
+   "price": 6.15,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "Listed in stock",
+   "stockText": "In Stock — ships within 24 hrs (checked Oct 27)",
    "fitment": "Universal DOT 4 fluid - DOT 4 confirmed by owner for this T7",
-   "promo": null
+   "promo": "Free shipping over $49.99; ships free to stores",
+   "alsoAt": [
+    {
+     "site": "RMATVMC",
+     "price": 6.49,
+     "url": "https://www.rockymountainatvmc.com/parts/ebc-brake-fluid-dot-4-p?v=21674",
+     "note": "Temporarily out of stock (Oct 27)"
+    }
+   ]
   },
   {
    "id": "bf-tusk-bleeder",
@@ -3792,8 +3800,8 @@
    "url": "https://www.rockymountainatvmc.com/riding-gear/msr-enduro-hydration-pack-p",
    "price": 69.99,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "Listed at RMATVMC (stock not verified)",
+   "inStock": false,
+   "stockText": "Default Black 2L variant temporarily out of stock at RMATVMC (Oct 27); other options may be available",
    "fitment": "Universal rider gear",
    "promo": null
   },
@@ -4218,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4237,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4309,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4327,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
