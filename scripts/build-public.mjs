@@ -69,13 +69,13 @@ ${og(cfg.siteName, desc, "/")}
 <h1>${esc(cfg.siteName)}</h1>
 <p class="sub">${esc(cfg.bikeName)} · rackless gear only</p>
 <p class="disc" data-disclosure>${esc(disclosure)}</p>
-<section class="sizes" aria-labelledby="sizes-h"><h2 id="sizes-h">See stock sizes for this machine</h2>
+<section class="sizes" aria-labelledby="sizes-h"><div class="sizes-head"><h2 id="sizes-h">See stock sizes for this machine</h2><p class="small">${esc(cfg.bikeName)} stock sizes. For reference only; confirm with your owner's manual.</p></div>
 <table><tbody>
 <tr><th scope="row">Front tire</th><td>90/90R21</td><th scope="row">Front sprocket</th><td>15 Tooth</td></tr>
 <tr><th scope="row">Rear tire</th><td>150/70R18</td><th scope="row">Rear sprocket</th><td>46 Tooth</td></tr>
 <tr><th scope="row">Chain</th><td>520x122</td><th scope="row">Spark plug</th><td>LMAR8A-9</td></tr>
 </tbody></table>
-<p class="small">${esc(cfg.bikeName)} stock sizes. For reference only; confirm with your owner's manual.</p></section>
+</section>
 <div class="layout"><aside>
 <div class="row2"><button class="btn span2" id="f-am" aria-pressed="true">AfterMarket</button><button class="btn" id="f-oem" aria-pressed="false">OEM</button><button class="btn" id="f-all" aria-pressed="false">All</button></div>
 <button class="btn" id="cmp" aria-pressed="false" title="Show the cheapest item per category">Cheapest per category</button>
