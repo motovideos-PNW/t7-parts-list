@@ -4345,7 +4345,7 @@
    "type": "aftermarket",
    "name": "Build guide: T7 Starlink Mini power install (wiring, photos, mounting)",
    "description": "Step-by-step install guide for this project: finding the 2025 aux plug under the tank, measuring the pins, wiring the socket, routing, mounting, safety notes, and marked-up photos. Not a product.",
-   "image": "",
+   "image": "https://t7-parts-list.motovideoswa.workers.dev/starlink-guide-thumb.jpg",
    "site": "Build guide",
    "url": "starlink-guide/",
    "price": null,
