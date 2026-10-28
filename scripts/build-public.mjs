@@ -35,7 +35,7 @@ const items = raw.items.map((it) => {
       const { price, ...rest } = a; return rest;
     });
   }
-  if (o.id === "cu-sl-guide") { o.url = "starlink-guide/"; o.site = "Build guide"; o.stockText = "Free step-by-step guide"; o.priceNote = "Free"; }
+  if (o.id === "cu-sl-guide") { o.url = "starlink-guide/"; o.site = "Build guide"; o.stockText = "Free step-by-step guide"; o.priceNote = "Free"; o.image = (cfg.siteUrl || "").replace(/\/$/, "") + "/starlink-guide-thumb.jpg"; }
   return o;
 });
 const pub = { updatedAt: raw.updatedAt, settings: { region: raw.settings?.region }, sites: raw.sites, items };
@@ -125,6 +125,7 @@ write("site/privacy.html", privacy);
 
 // ---- 6. Static extras ------------------------------------------------------
 if (existsSync(path.join(root, "assets/social-preview.jpg"))) copyFileSync(path.join(root, "assets/social-preview.jpg"), path.join(root, "site/social-preview.jpg"));
+if (existsSync(path.join(root, "assets/starlink-guide-thumb.jpg"))) copyFileSync(path.join(root, "assets/starlink-guide-thumb.jpg"), path.join(root, "site/starlink-guide-thumb.jpg"));
 write("site/robots.txt", "User-agent: *\nAllow: /\n" + (base ? `Sitemap: ${base}/sitemap.xml\n` : ""));
 if (base) write("site/sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>${base}/</loc></url><url><loc>${base}/starlink-guide/</loc></url><url><loc>${base}/privacy.html</loc></url></urlset>\n`);
 
