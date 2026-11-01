@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T09:20:00-07:00",
+ "updatedAt": "2026-11-01T10:30:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -3319,8 +3319,8 @@
    "url": "https://us.camel-adv.com/products/yamaha-700-tenere-700-frame-brace",
    "price": 99,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "In stock",
+   "inStock": false,
+   "stockText": "Out of stock",
    "fitment": "Camel ADV: all years of standard T7; does NOT fit World Raid",
    "promo": null
   },
@@ -4226,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
