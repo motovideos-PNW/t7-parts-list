@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T10:30:00-07:00",
+ "updatedAt": "2026-11-02T10:50:00-07:00",
  "settings": {
   "region": "WA"
  },
@@ -1663,11 +1663,11 @@
    "image": null,
    "site": "MotoCampNerd",
    "url": "https://motocampnerd.com/products/best-value-motocamping-sleep-system",
-   "price": 327.41,
+   "price": 369.9,
    "priceFrom": true,
    "inStock": false,
-   "stockText": "Out of stock at MotoCampNerd (checked 2026-10-28)",
-   "promo": "October: free MCN Crush Cap on orders over $250",
+   "stockText": "Out of stock at MotoCampNerd (checked 2026-11-02); regular price $369.90 (earlier sale price ended)",
+   "promo": null,
    "fitment": "MotoCampNerd: Universal / strap-on — no bike-specific fitment needed"
   },
   {
@@ -4226,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
