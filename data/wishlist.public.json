@@ -4226,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
+   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null,
-   "priceNote": "Check price on Amazon"
+   "image": null
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
+   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null,
-   "priceNote": "Check price on Amazon"
+   "image": null
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
+   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null,
-   "priceNote": "Check price on Amazon"
+   "image": null
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
+   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null,
-   "priceNote": "Check price on Amazon"
+   "image": null
   },
   {
    "id": "cu-sl-guide",
