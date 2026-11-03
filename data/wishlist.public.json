@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T10:50:00-07:00",
+ "updatedAt": "2026-11-03T12:00:00-08:00",
  "settings": {
   "region": "WA"
  },
@@ -4119,14 +4119,14 @@
    "image": "https://www.cyclegear.com/_a/product_images/2089/8472/pirelli_scorpion_rally_str_tires.jpg",
    "site": "CycleGear",
    "url": "https://www.cyclegear.com/tires/pirelli-scorpion-rally-str-tires?vehicle_id=38595&sku_id=10089848",
-   "price": 176.61,
+   "price": 172.55,
    "stockText": "In Stock — ships within 24 hrs",
    "specs": "90/90-21 54V TL",
    "alsoAt": [],
    "type": "oem",
    "priceFrom": false,
    "inStock": true,
-   "promo": "26% off MSRP; free shipping over $49.99.",
+   "promo": "28% off MSRP; free shipping over $49.99.",
    "fitment": "Factory-spec tire for the 2025 Ténéré 700 (owner-confirmed OEM: Pirelli Scorpion Rally STR)",
    "foundAt": "2026-10-18",
    "trending": false
@@ -4226,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
