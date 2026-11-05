@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T12:00:00-08:00",
+ "updatedAt": "2026-11-05T12:00:00-08:00",
  "settings": {
   "region": "WA"
  },
@@ -2269,8 +2269,8 @@
    "url": "https://giantloopmoto.com/products/armadillo-bag",
    "price": 159,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "In Stock (Black/Gray)",
+   "inStock": false,
+   "stockText": "Out of stock at Giant Loop (Black & Gray, 2 gal) as of 2026-11-05",
    "specs": "2 gal (7.6 L) · 20.5 x 12 x 4 in filled · black or gray",
    "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed"
   },
@@ -2286,7 +2286,7 @@
    "price": 179,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In Stock (Black/Gray)",
+   "stockText": "In Stock (Gray only; Black sold out)",
    "specs": "3 gal (11.4 L) · 24.5 x 13.25 x 5 in filled · black or gray",
    "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed"
   },
@@ -3943,11 +3943,11 @@
    "image": "https://www.cyclegear.com/_a/product_images/1487/4641/swmotechpro_tank_ring.jpg",
    "site": "CycleGear",
    "url": "https://www.cyclegear.com/accessories/sw-motech-pro-tank-ring-yamaha-tenere-700-2020-2021",
-   "price": 65.95,
+   "price": 70,
    "inStock": true,
    "stockText": "In stock - ships within 24 hrs",
    "fitment": "CycleGear lists 2020-2021-2024 Tenere 700; 2025 fit not confirmed | Owner's bike has the 5-bolt pentagon tank-cap pattern - confirm the ring is made for that pattern before ordering.",
-   "promo": "Was $70.00"
+   "promo": ""
   },
   {
    "id": "tl-ring-givi",
@@ -4226,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
