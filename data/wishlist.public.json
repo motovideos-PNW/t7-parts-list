@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T10:00:00-08:00",
+ "updatedAt": "2026-11-08T09:16:41-08:00",
  "settings": {
   "region": "WA"
  },
@@ -2630,11 +2630,11 @@
    "image": "https://cdn.shopify.com/s/files/1/2352/1437/products/rear_68ac1675-9801-4550-8a82-052806ffd046.jpg?v=1674231900",
    "site": "Woody's Wheel Works",
    "url": "https://www.woodyswheelworks.com/products/yamaha-tenere-700-rear-18-425",
-   "price": 1304.92,
+   "price": 1263.92,
    "inStock": true,
    "stockText": "Built to order — Silver variant sold out, Black/Gold available",
    "fitment": "Listed by builder for Yamaha Tenere 700",
-   "promo": null,
+   "promo": " Price dropped from $1,304.92 (verified 2026-11-08).",
    "priceFrom": true,
    "specs": "Seal for tubeless +$144"
   },
@@ -4226,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
