@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T10:05:51-08:00",
+ "updatedAt": "2026-11-15T09:17:24-08:00",
  "settings": {
   "region": "WA"
  },
@@ -2282,11 +2282,11 @@
    "description": "Collapsible rackless-friendly fuel bladder; packs down small when empty, daisy-chain webbing straps to luggage/racks. Includes pour spout.",
    "image": "https://cdn.shopify.com/s/files/1/0864/4657/1850/files/Armadillo-Stacked.png?v=1765367372",
    "site": "Giant Loop",
-   "url": "https://giantloopmoto.com/products/armadillo-bag",
-   "price": 179,
+   "url": "https://giantloopmoto.com/products/armadillo-bag-gray",
+   "price": 159,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In Stock (Gray only; Black sold out)",
+   "stockText": "In Stock (Gray only; Black sold out) - $159 as of 2026-11-15 (was $179)",
    "specs": "3 gal (11.4 L) · 24.5 x 13.25 x 5 in filled · black or gray",
    "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed"
   },
@@ -4226,9 +4226,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4245,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4317,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4335,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
