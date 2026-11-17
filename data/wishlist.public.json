@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T09:16:55-08:00",
+ "updatedAt": "2026-11-17T09:22:10-08:00",
  "settings": {
   "region": "WA"
  },
@@ -713,8 +713,8 @@
    "site": "RMATVMC",
    "url": "https://www.rockymountainatvmc.com/parts/r%26g-racing-radiator-guard-p?v=21674",
    "price": 94.99,
-   "inStock": true,
-   "stockText": "In Stock",
+   "inStock": false,
+   "stockText": "No 2025 T7 fitment shown / no price on RMATVMC page as of 2026-11-17 - check Camel ADV guard instead",
    "promo": "Quick Cash rewards; low-price guarantee",
    "fitment": "RMATVMC: Fits 2025 YAMAHA TENERE 700"
   },
@@ -2270,7 +2270,7 @@
    "price": 159,
    "priceFrom": false,
    "inStock": false,
-   "stockText": "Out of stock at Giant Loop (Black & Gray, 2 gal) as of 2026-11-05",
+   "stockText": "Out of stock at Giant Loop (Black & Gray, 2 gal) as of 2026-11-17",
    "specs": "2 gal (7.6 L) · 20.5 x 12 x 4 in filled · black or gray",
    "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed"
   },
@@ -2283,12 +2283,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0864/4657/1850/files/Armadillo-Stacked.png?v=1765367372",
    "site": "Giant Loop",
    "url": "https://giantloopmoto.com/products/armadillo-bag-gray",
-   "price": 159,
+   "price": 127.2,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In Stock (Gray only; Black sold out) - $159 as of 2026-11-15 (was $179)",
+   "stockText": "In Stock (Gray only; Black sold out) - $127.20 as of 2026-11-17 (was $159, 20% off)",
    "specs": "3 gal (11.4 L) · 24.5 x 13.25 x 5 in filled · black or gray",
-   "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed"
+   "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed",
+   "promo": "20% off at Giant Loop (was $159)"
   },
   {
    "id": "fb-rotopax-1",
@@ -2299,12 +2300,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0616/9965/3786/products/RX-1G122.jpg?v=1740017937",
    "site": "Rotopax",
    "url": "https://www.rotopax.com/products/1-gallon-gasoline",
-   "price": 94.99,
+   "price": 75.99,
    "priceFrom": false,
    "inStock": true,
    "stockText": "In Stock",
    "specs": "1 gal (3.8 L) · rigid · mount sold separately",
-   "fitment": "Rotopax: Universal / strap-on — no bike-specific fitment needed"
+   "fitment": "Rotopax: Universal / strap-on — no bike-specific fitment needed",
+   "promo": "20% off sale at Rotopax (was $94.99) as of 2026-11-17"
   },
   {
    "id": "fb-rotopax-2g2",
@@ -2315,12 +2317,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0616/9965/3786/products/RX-2G23.jpg?v=1679961920",
    "site": "Rotopax",
    "url": "https://www.rotopax.com/products/rotopax-2-gallon-gen-2",
-   "price": 104.99,
+   "price": 83.99,
    "priceFrom": false,
    "inStock": true,
    "stockText": "In Stock",
    "specs": "2 gal (7.6 L) · rigid · Gen 2 lock system",
-   "fitment": "Rotopax: Universal / strap-on — no bike-specific fitment needed"
+   "fitment": "Rotopax: Universal / strap-on — no bike-specific fitment needed",
+   "promo": "20% off sale at Rotopax (was $104.99) as of 2026-11-17"
   },
   {
    "id": "fb-msr-30",
@@ -2630,9 +2633,9 @@
    "image": "https://cdn.shopify.com/s/files/1/2352/1437/products/rear_68ac1675-9801-4550-8a82-052806ffd046.jpg?v=1674231900",
    "site": "Woody's Wheel Works",
    "url": "https://www.woodyswheelworks.com/products/yamaha-tenere-700-rear-18-425",
-   "price": 1263.92,
+   "price": 1304.92,
    "inStock": true,
-   "stockText": "Built to order — Silver variant sold out, Black/Gold available",
+   "stockText": "In stock as of 2026-11-17 (lowest in-stock option price)",
    "fitment": "Listed by builder for Yamaha Tenere 700",
    "promo": " Price dropped from $1,304.92 (verified 2026-11-08).",
    "priceFrom": true,
@@ -3285,10 +3288,10 @@
    "image": "https://images.rockymountainatvmc.com/images/prod/160/t/tus_21_bra_ble_vac_pum_kit.jpg",
    "site": "RMATVMC",
    "url": "https://www.rockymountainatvmc.com/parts/tusk-brake-bleeder-vacuum-pump-kit-p?v=21674",
-   "price": 25.99,
+   "price": 19.99,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "Listed in stock",
+   "stockText": "Listed in stock; price drop from $25.99 (2026-11-17)",
    "fitment": "Universal tool",
    "promo": null
   },
@@ -3335,8 +3338,8 @@
    "url": "https://us.camel-adv.com/products/yamaha-t7-radiator-guard",
    "price": 179,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "In stock",
+   "inStock": false,
+   "stockText": "Out of stock at Camel ADV as of 2026-11-17",
    "fitment": "Camel ADV: 2019-current standard T7 (not tested on World Raid)",
    "promo": null
   },
@@ -4070,8 +4073,8 @@
    "specs": "4.0L · 1.75 L/min · hollow-fiber filter",
    "type": "aftermarket",
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "Listed — confirm",
+   "inStock": false,
+   "stockText": "4.0L sold out at Gearfool and Cascade Designs as of 2026-11-17 (only the 6.0L is in stock, $149.95 Gearfool)",
    "promo": "",
    "fitment": "Universal camping gear — no bike fitment needed",
    "alsoAt": [],
@@ -4226,9 +4229,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4245,9 +4248,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4317,9 +4320,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4335,9 +4338,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
