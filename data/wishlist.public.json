@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T09:22:10-08:00",
+ "updatedAt": "2026-11-18T09:40:00-08:00",
  "settings": {
   "region": "WA"
  },
@@ -2267,10 +2267,10 @@
    "image": "https://cdn.shopify.com/s/files/1/0864/4657/1850/files/Armadillo-Stacked.png?v=1765367372",
    "site": "Giant Loop",
    "url": "https://giantloopmoto.com/products/armadillo-bag",
-   "price": 159,
+   "price": 139,
    "priceFrom": false,
    "inStock": false,
-   "stockText": "Out of stock at Giant Loop (Black & Gray, 2 gal) as of 2026-11-17",
+   "stockText": "Out of stock at Giant Loop (Black & Gray, 2 gal) as of 2026-11-18",
    "specs": "2 gal (7.6 L) · 20.5 x 12 x 4 in filled · black or gray",
    "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed"
   },
@@ -2283,13 +2283,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0864/4657/1850/files/Armadillo-Stacked.png?v=1765367372",
    "site": "Giant Loop",
    "url": "https://giantloopmoto.com/products/armadillo-bag-gray",
-   "price": 127.2,
+   "price": 100,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In Stock (Gray only; Black sold out) - $127.20 as of 2026-11-17 (was $159, 20% off)",
+   "stockText": "In Stock (Gray only) - $100.00 as of 2026-11-18 (was $125, 20% off)",
    "specs": "3 gal (11.4 L) · 24.5 x 13.25 x 5 in filled · black or gray",
    "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed",
-   "promo": "20% off at Giant Loop (was $159)"
+   "promo": "20% off at Giant Loop (was $125)"
   },
   {
    "id": "fb-rotopax-1",
@@ -2587,7 +2587,7 @@
    "inStock": true,
    "stockText": "Built to order",
    "fitment": "Listed by builder for Yamaha Tenere 700",
-   "promo": null,
+   "promo": " Woody's lists $2,699 crossed out, now $2,599 (2026-11-18).",
    "specs": "Colors: Black / Blue / Gold · 2-4 wk build"
   },
   {
@@ -2633,7 +2633,7 @@
    "image": "https://cdn.shopify.com/s/files/1/2352/1437/products/rear_68ac1675-9801-4550-8a82-052806ffd046.jpg?v=1674231900",
    "site": "Woody's Wheel Works",
    "url": "https://www.woodyswheelworks.com/products/yamaha-tenere-700-rear-18-425",
-   "price": 1304.92,
+   "price": 1263.92,
    "inStock": true,
    "stockText": "In stock as of 2026-11-17 (lowest in-stock option price)",
    "fitment": "Listed by builder for Yamaha Tenere 700",
@@ -4229,9 +4229,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4248,9 +4248,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4320,9 +4320,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4338,9 +4338,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
