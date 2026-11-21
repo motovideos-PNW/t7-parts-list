@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T09:16:10-08:00",
+ "updatedAt": "2026-11-21T09:23:51-08:00",
  "settings": {
   "region": "WA"
  },
@@ -1426,7 +1426,7 @@
    "priceFrom": false,
    "inStock": true,
    "stockText": "In stock (per listing)",
-   "promo": "Halloween: TREAT15 = 15% off 2 parts, TREAT17 = 17% off 3 parts (+ holo stickers)",
+   "promo": "Sale: $51.99 (was $69.99)",
    "fitment": "Title: Tenere 700 / XTZ700 2019-2025 (URL says 2024 — confirm)"
   },
   {
@@ -1442,7 +1442,7 @@
    "priceFrom": true,
    "inStock": true,
    "stockText": "In stock (per listing)",
-   "promo": "Halloween: TREAT15 = 15% off 2 parts, TREAT17 = 17% off 3 parts (+ holo stickers)",
+   "promo": "Sale: from $69.99 (was $99.99)",
    "fitment": "Title: T7 XTZ700 19-25"
   },
   {
@@ -1487,11 +1487,11 @@
    "image": "https://cdn.shopify.com/s/files/1/0330/2513/0555/products/msr-or-msr-fuel-bottles-moto-camp-nerd-motorcycle-camping-1.jpg?v=1729095325",
    "site": "MotoCampNerd",
    "url": "https://motocampnerd.com/products/msr-msr®-fuel-bottles",
-   "price": 23.95,
+   "price": 17.96,
    "priceFrom": true,
    "inStock": true,
-   "stockText": "In Stock",
-   "promo": "October: free MCN Crush Cap on orders over $250",
+   "stockText": "In Stock (checked 2026-11-21)",
+   "promo": "Sale: 11 oz $17.96 (was $23.95); 20 oz $22.46, 30 oz $26.21",
    "fitment": "MotoCampNerd: Universal / strap-on — no bike-specific fitment needed"
   },
   {
@@ -1663,11 +1663,11 @@
    "image": null,
    "site": "MotoCampNerd",
    "url": "https://motocampnerd.com/products/best-value-motocamping-sleep-system",
-   "price": 327.41,
+   "price": 277.42,
    "priceFrom": true,
    "inStock": false,
-   "stockText": "Out of stock at MotoCampNerd (checked 2026-11-02); regular price $369.90 (earlier sale price ended)",
-   "promo": "Sale: was $369.90 (currently out of stock)",
+   "stockText": "Out of stock at MotoCampNerd (checked 2026-11-21); sale price $277.42 vs regular $369.90",
+   "promo": "Sale: $277.42 (was $369.90) - currently out of stock",
    "fitment": "MotoCampNerd: Universal / strap-on — no bike-specific fitment needed"
   },
   {
@@ -1695,11 +1695,11 @@
    "image": null,
    "site": "MotoCampNerd",
    "url": "https://motocampnerd.com/products/helinox-chair-one",
-   "price": 109.95,
+   "price": 76.97,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In Stock",
-   "promo": "October: free MCN Crush Cap on orders over $250",
+   "stockText": "In Stock (checked 2026-11-21)",
+   "promo": "Sale: $76.97 (was $109.95, ~30% off)",
    "fitment": "MotoCampNerd: Universal / strap-on — no bike-specific fitment needed"
   },
   {
@@ -1778,8 +1778,8 @@
    "price": 499.95,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "Listed — confirm size/color",
-   "promo": "",
+   "stockText": "In stock at REI Hillsboro (checked 2026-11-21)",
+   "promo": "REI members: code HOLIDAY2026 = 20% off one full-price item through 11/23 (REI blocked by bot check this run; last read $499.95, 4.5/81 reviews, TOP RATED)",
    "fitment": "Universal camping gear — no bike fitment needed",
    "specs": "2P · 2 lb 3 oz trail · packed 5 x 18 in · 4.5★ (80)"
   },
@@ -2283,13 +2283,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0864/4657/1850/files/Armadillo-Stacked.png?v=1765367372",
    "site": "Giant Loop",
    "url": "https://giantloopmoto.com/products/armadillo-bag-gray",
-   "price": 100,
+   "price": 127.2,
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In Stock (Gray only) - $100.00 as of 2026-11-18 (was $125, 20% off)",
+   "stockText": "In Stock (Gray 3 gal) - $127.20 as of 2026-11-21 (was $159, 20% off)",
    "specs": "3 gal (11.4 L) · 24.5 x 13.25 x 5 in filled · black or gray",
    "fitment": "Giant Loop: Universal / strap-on — no bike-specific fitment needed",
-   "promo": "20% off at Giant Loop (was $125)"
+   "promo": "20% off at Giant Loop (was $159)"
   },
   {
    "id": "fb-rotopax-1",
@@ -2447,13 +2447,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0825/3331/8951/files/Street_Bike_Tire_Changer_1.jpg?v=1789080958",
    "site": "Rabaconda",
    "url": "https://us.rabaconda.com/products/street-bike-tire-changer",
-   "price": 739,
+   "price": 639,
    "priceFrom": false,
    "inStock": true,
    "stockText": "In Stock",
    "specs": "Base unit · hubs 15–32 mm · add adapters out to 68 mm",
    "fitment": "Rabaconda: works on spoked wheels 12–21 in, tires to 250 mm — confirm adapters for your hubs",
-   "promo": null
+   "promo": "Sale: $639 (was $739)"
   },
   {
    "id": "rc-starter",
@@ -2464,13 +2464,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0825/3331/8951/files/SBTC-Starter-7-2025-No-text_copy.jpg?v=1779890292",
    "site": "Rabaconda",
    "url": "https://us.rabaconda.com/products/starter-kit-street-bike-tire-changer",
-   "price": 759,
+   "price": 673,
    "priceFrom": false,
    "inStock": true,
    "stockText": "In Stock",
    "specs": "Changer + grease + brush (was $773)",
    "fitment": "Rabaconda: works on spoked wheels 12–21 in, tires to 250 mm — confirm adapters for your hubs",
-   "promo": "Bundle price (was $773)"
+   "promo": "Bundle/sale price $673 (was $773)"
   },
   {
    "id": "rc-strap",
@@ -2566,13 +2566,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0825/3331/8951/files/MotorcycleWheelBalancer.jpg?v=1763695196",
    "site": "Rabaconda",
    "url": "https://us.rabaconda.com/products/motorcycle-wheel-balancer",
-   "price": 199,
+   "price": 169,
    "priceFrom": false,
    "inStock": true,
    "stockText": "In Stock",
    "specs": "Accessory for Street Bike Tire Changer",
    "fitment": "Rabaconda: works on spoked wheels 12–21 in, tires to 250 mm — confirm adapters for your hubs",
-   "promo": null
+   "promo": "Sale: $169 (was $199)"
   },
   {
    "id": "w-woody-set-blk",
@@ -2633,11 +2633,11 @@
    "image": "https://cdn.shopify.com/s/files/1/2352/1437/products/rear_68ac1675-9801-4550-8a82-052806ffd046.jpg?v=1674231900",
    "site": "Woody's Wheel Works",
    "url": "https://www.woodyswheelworks.com/products/yamaha-tenere-700-rear-18-425",
-   "price": 1263.92,
+   "price": 1304.92,
    "inStock": true,
-   "stockText": "In stock as of 2026-11-17 (lowest in-stock option price)",
+   "stockText": "In stock as of 2026-11-21 (Black/Gold, no seal; Silver no-seal option sold out)",
    "fitment": "Listed by builder for Yamaha Tenere 700",
-   "promo": " Price dropped from $1,304.92 (verified 2026-11-08).",
+   "promo": "Silver no-seal option ($1,263.92) sold out; next lowest in-stock option $1,304.92.",
    "priceFrom": true,
    "specs": "Seal for tubeless +$144"
   },
@@ -3152,11 +3152,11 @@
    "image": "https://www.naturehike.com/cdn/shop/files/Mini_Air_Pump_OatGray_Main.jpg?v=1750152805",
    "site": "Naturehike",
    "url": "https://www.naturehike.com/products/naturehike-ultralight-mini-air-pump-with-camping-light",
-   "price": 30,
+   "price": 32.99,
    "inStock": true,
    "stockText": "In stock",
    "fitment": "Universal camping gear",
-   "promo": "Army Green on sale $30.00 (Oat Gray $32.99); site code SPOOKY12 = 12% off $139+ carts.",
+   "promo": "Both colors $32.99 now (sale price ended).",
    "specs": "Light: yes · Oat Gray / Army Green ($30)"
   },
   {
@@ -4069,13 +4069,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0663/1977/8014/files/PlatypusGravityWorksSysytemStaffPick.jpg?v=1742923785",
    "site": "Gearfool",
    "url": "https://www.gearfool.com/products/platypus-gravityworks-water-filter-system-4-l",
-   "price": 134.95,
+   "price": 101.21,
    "specs": "4.0L · 1.75 L/min · hollow-fiber filter",
    "type": "aftermarket",
    "priceFrom": false,
    "inStock": false,
-   "stockText": "4.0L sold out at Gearfool and Cascade Designs as of 2026-11-17 (only the 6.0L is in stock, $149.95 Gearfool)",
-   "promo": "",
+   "stockText": "4.0L sold out at Gearfool and Cascade Designs as of 2026-11-21 (Gearfool sale price $101.21, was $134.95)",
+   "promo": "Sale at Gearfool: $101.21 (was $134.95) - sold out",
    "fitment": "Universal camping gear — no bike fitment needed",
    "alsoAt": [],
    "foundAt": "2026-10-18",
@@ -4089,13 +4089,13 @@
    "image": "https://cdn.shopify.com/s/files/1/0574/0642/3174/files/13903-platypus-quickdraw-1L_system-connected.jpg?v=1724820266",
    "site": "Gearfool",
    "url": "https://www.gearfool.com/products/platypus-quickdraw-1l",
-   "price": 54.95,
+   "price": 41.21,
    "specs": "1L · compact",
    "type": "aftermarket",
    "priceFrom": false,
    "inStock": true,
-   "stockText": "In stock at Gearfool (checked Oct 26); sold out at Cascade Designs",
-   "promo": "",
+   "stockText": "In stock at Gearfool (checked 2026-11-21); sold out at Cascade Designs",
+   "promo": "Sale at Gearfool: $41.21 (was $54.95, 25% off)",
    "fitment": "Universal camping gear — no bike fitment needed",
    "alsoAt": [
     {
@@ -4229,9 +4229,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4248,9 +4248,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4320,9 +4320,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4338,9 +4338,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
