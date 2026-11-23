@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T09:17:02-08:00",
+ "updatedAt": "2026-11-23T09:17:50-08:00",
  "settings": {
   "region": "WA"
  },
@@ -2401,8 +2401,8 @@
    "url": "https://moskomoto.com/collections/accessories/products/fatty-tool-roll-v2-0-rain-cover-adv-tool-kit",
    "price": 264,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "In Stock",
+   "inStock": false,
+   "stockText": "Both variants out of stock at Mosko Moto as of 2026-11-23 (Pinner roll+kit $234 in stock)",
    "specs": "Large roll · includes CruzTOOLS kit · waterproof rain cover",
    "fitment": "Mosko Moto: strap-on; fits Reckless pockets/MOLLE — no bike-specific fitment"
   },
@@ -3322,8 +3322,8 @@
    "url": "https://us.camel-adv.com/products/yamaha-700-tenere-700-frame-brace",
    "price": 99,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "In stock",
+   "inStock": false,
+   "stockText": "Out of stock at Camel ADV as of 2026-11-23",
    "fitment": "Camel ADV: all years of standard T7; does NOT fit World Raid",
    "promo": null
   },
@@ -4229,9 +4229,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4248,9 +4248,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4320,9 +4320,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4338,9 +4338,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
