@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T09:17:50-08:00",
+ "updatedAt": "2026-11-24T09:45:00-08:00",
  "settings": {
   "region": "WA"
  },
@@ -1102,11 +1102,11 @@
    "image": "https://images.rockymountainatvmc.com/images/prod/275/s/swm_25_adv_han_gua_kit-2165840001.jpg",
    "site": "RMATVMC",
    "url": "https://www.rockymountainatvmc.com/parts/sw-motech-adventure-handguard-kit-p?v=21674",
-   "price": 170,
+   "price": 144.5,
    "priceFrom": true,
    "inStock": true,
    "stockText": "In stock — choose option/size at checkout",
-   "promo": "Quick Cash rewards; low-price guarantee",
+   "promo": "Sale price at RMATVMC (was $170.00, ~15% off) as of 2026-11-24.",
    "fitment": "RMATVMC: Fits 2025 YAMAHA TENERE 700"
   },
   {
@@ -4229,9 +4229,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4248,9 +4248,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4320,9 +4320,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4338,9 +4338,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
