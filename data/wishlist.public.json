@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T09:45:00-08:00",
+ "updatedAt": "2026-11-25T09:30:00-08:00",
  "settings": {
   "region": "WA"
  },
@@ -1294,11 +1294,11 @@
    "image": "https://content.motosport.com/images/items/medium/PUI/PUIA05E/X001-Y001.jpg",
    "site": "MotoSport",
    "url": "https://www.motosport.com/puig-rally-windscreen",
-   "price": 201.16,
+   "price": 190.58,
    "priceFrom": false,
    "inStock": true,
    "stockText": "Exact Fit for 2025 T7 — confirm color/size on page",
-   "promo": "Free shipping over $79; Halloween Slasher Deals (up to 75% off select items); Fast Cash $15 on orders over $150",
+   "promo": "MotoSport lists $190.58 (was $211.75); fits 2025 Tenere 700 per MotoSport.",
    "fitment": "MotoSport: Exact Fit 2025 Tenere 700"
   },
   {
@@ -1310,11 +1310,11 @@
    "image": "https://content.motosport.com/images/items/medium/PUI/PUI000K/X003-Y001.jpg",
    "site": "MotoSport",
    "url": "https://www.motosport.com/puig-touring-windscreen",
-   "price": 182.26,
+   "price": 172.67,
    "priceFrom": true,
    "inStock": true,
    "stockText": "Exact Fit for 2025 T7 — confirm color/size on page",
-   "promo": "Free shipping over $79; Halloween Slasher Deals (up to 75% off select items); Fast Cash $15 on orders over $150",
+   "promo": "MotoSport from-price $172.67 (other option $184.13).",
    "fitment": "MotoSport: Exact Fit 2025 Tenere 700"
   },
   {
@@ -1358,11 +1358,11 @@
    "image": null,
    "site": "MotoSport",
    "url": "https://www.motosport.com/puig-headlight-protector",
-   "price": 111.61,
+   "price": 105.73,
    "priceFrom": true,
    "inStock": true,
    "stockText": "Exact Fit for 2025 T7 — confirm color/size on page",
-   "promo": "Free shipping over $79; Halloween Slasher Deals (up to 75% off select items); Fast Cash $15 on orders over $150",
+   "promo": "MotoSport lists $105.73 (was $117.48).",
    "fitment": "MotoSport: Exact Fit 2025 Tenere 700"
   },
   {
@@ -1374,11 +1374,11 @@
    "image": null,
    "site": "MotoSport",
    "url": "https://www.motosport.com/puig-dashboard-protector",
-   "price": 16.96,
+   "price": 16.07,
    "priceFrom": false,
    "inStock": true,
    "stockText": "Exact Fit for 2025 T7 — confirm color/size on page",
-   "promo": "Free shipping over $79; Halloween Slasher Deals (up to 75% off select items); Fast Cash $15 on orders over $150",
+   "promo": "MotoSport lists $16.07 (was $17.85).",
    "fitment": "MotoSport: Exact Fit 2025 Tenere 700"
   },
   {
@@ -1392,8 +1392,8 @@
    "url": "https://www.motosport.com/gb-racing-engine-cover-set",
    "price": 279.5,
    "priceFrom": false,
-   "inStock": true,
-   "stockText": "Exact Fit for 2025 T7 — confirm color/size on page",
+   "inStock": false,
+   "stockText": "Out of stock at MotoSport (checked 2026-11-25)",
    "promo": "Free shipping over $79; Halloween Slasher Deals (up to 75% off select items); Fast Cash $15 on orders over $150",
    "fitment": "MotoSport: Exact Fit 2025 Tenere 700"
   },
@@ -2002,21 +2002,21 @@
    "name": "Big Agnes Rapide SL Insulated",
    "description": "4.25 in thick, R4.8; very compact roll (4 x 7 in Regular).",
    "image": "https://www.rei.com/media/d61113b9-0a6e-4e0b-b2cd-d6cf0ca8e3a5.jpg",
-   "site": "REI",
-   "url": "https://www.rei.com/product/229190/big-agnes-rapide-sl-insulated-sleeping-pad",
-   "price": 159.95,
+   "site": "MotoCampNerd",
+   "url": "https://motocampnerd.com/collections/sleeping-pad/products/big-agnes-rapide-sl-insulated-1",
+   "price": 127.46,
    "priceFrom": true,
    "inStock": true,
-   "stockText": "Listed — confirm size/color",
-   "promo": "",
+   "stockText": "In stock at MotoCampNerd (checked 2026-11-25)",
+   "promo": "MotoCampNerd sale: Regular $127.46 (was $169.95), Petite $119.96; REI from $159.95.",
    "fitment": "Universal camping gear — no bike fitment needed",
    "specs": "4.25 in · R4.8 · packed 4 x 7 in (Regular) · 4.4★ (307)",
    "alsoAt": [
     {
-     "site": "MotoCampNerd",
+     "site": "REI",
      "price": 159.95,
-     "url": "https://motocampnerd.com/collections/sleeping-pad/products/big-agnes-rapide-sl-insulated-1",
-     "note": "from price"
+     "url": "https://www.rei.com/product/229190/big-agnes-rapide-sl-insulated-sleeping-pad",
+     "note": "REI from price (Regular)"
     }
    ]
   },
@@ -3322,8 +3322,8 @@
    "url": "https://us.camel-adv.com/products/yamaha-700-tenere-700-frame-brace",
    "price": 99,
    "priceFrom": false,
-   "inStock": false,
-   "stockText": "Out of stock at Camel ADV as of 2026-11-23",
+   "inStock": true,
+   "stockText": "In stock at Camel ADV (checked 2026-11-25); was out of stock",
    "fitment": "Camel ADV: all years of standard T7; does NOT fit World Raid",
    "promo": null
   },
@@ -3627,8 +3627,8 @@
    "url": "https://us.camel-adv.com/products/t7-akt-vented-oil-funnel",
    "price": 24.99,
    "priceFrom": false,
-   "inStock": false,
-   "stockText": "Listed out of stock",
+   "inStock": true,
+   "stockText": "In stock at Camel ADV (checked 2026-11-25); was out of stock",
    "fitment": "Camel ADV: compatible with all years and variants of the T7",
    "promo": null
   },
@@ -3691,8 +3691,8 @@
    "url": "https://us.camel-adv.com/products/sae-power-outlet-cable",
    "price": 15,
    "priceFrom": false,
-   "inStock": false,
-   "stockText": "Out of stock",
+   "inStock": true,
+   "stockText": "In stock at Camel ADV (checked 2026-11-25); was out of stock",
    "fitment": "Universal; listed for 700 Tenere",
    "promo": null
   },
@@ -3771,8 +3771,8 @@
    "url": "https://us.camel-adv.com/products/yamaha-700-tenere-t7-camel-tank-auxiliary-fuel-tank-ct-t7",
    "price": 389,
    "priceFrom": false,
-   "inStock": false,
-   "stockText": "All variants listed out of stock",
+   "inStock": true,
+   "stockText": "In stock at Camel ADV (checked 2026-11-25); was out of stock",
    "fitment": "Camel ADV: standard T7, not World Raid",
    "promo": null
   },
@@ -4138,18 +4138,25 @@
    "id": "t-str-r",
    "category": "Wheels/Tires — Rear Tires",
    "name": "Pirelli Scorpion Rally STR (OEM) (Rear, 150/70-18)",
-   "description": "Factory-fit tire on the 2025 T7. 150/70R18 70V TL, M+S. Cycle Gear lists this size as not available; in stock at MotorcycleTire.com.",
+   "description": "Factory-fit tire on the 2025 T7. 150/70R18 70V TL, M+S. Now in stock at Cycle Gear on sale; also at MotorcycleTire.com.",
    "image": "https://www.cyclegear.com/_a/product_images/2089/8472/pirelli_scorpion_rally_str_tires.jpg",
-   "site": "MotorcycleTire.com",
-   "url": "https://www.motorcycletire.com/product/PU0317-0385.html",
-   "price": 249.95,
-   "stockText": "In stock",
+   "site": "CycleGear",
+   "url": "https://www.cyclegear.com/tires/pirelli-scorpion-rally-str-tires?vehicle_id=38595&sku_id=1287440",
+   "price": 237.83,
+   "stockText": "In Stock - ships within 24 hrs",
    "specs": "150/70R18 70V TL",
-   "alsoAt": [],
+   "alsoAt": [
+    {
+     "site": "MotorcycleTire.com",
+     "price": 249.95,
+     "url": "https://www.motorcycletire.com/product/PU0317-0385.html",
+     "note": "In stock"
+    }
+   ],
    "type": "oem",
    "priceFrom": false,
    "inStock": true,
-   "promo": "",
+   "promo": "Black Friday: 28% off (was $330.10); free shipping over $49.99.",
    "fitment": "Factory-spec tire for the 2025 Ténéré 700 (owner-confirmed OEM: Pirelli Scorpion Rally STR)",
    "foundAt": "2026-10-18",
    "trending": false
@@ -4229,9 +4236,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-3pin",
@@ -4248,9 +4255,9 @@
    "promo": "",
    "trending": false,
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-caradapter",
@@ -4320,9 +4327,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-split-plug",
@@ -4338,9 +4345,9 @@
    "promo": "",
    "site": "Amazon",
    "alsoAt": [],
-   "priceNote": "Check price on Amazon",
    "price": null,
-   "image": null
+   "image": null,
+   "priceNote": "Check price on Amazon"
   },
   {
    "id": "cu-sl-guide",
